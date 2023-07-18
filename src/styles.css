@@ -1,0 +1,11 @@
+h1 {
+  color: bisque;
+  font-family: "Playfair Display", serif;
+  font-weight: bold;
+}
+
+p {
+  color: beige;
+  font-family: "Poppins", sans-serif;
+  font-weight: normal;
+}
